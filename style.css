@@ -1,0 +1,14 @@
+body {
+  margin : 0 ;
+}
+.wrapper{
+  display : flex ;
+  justify-content: space-between;
+}
+.library{
+  display : flex ;
+  flex-direction: column;
+  width : 150 px;
+  height: 600 px;
+  overflow-y: auto;
+}
